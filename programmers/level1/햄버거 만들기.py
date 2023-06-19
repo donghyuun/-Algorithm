@@ -73,7 +73,7 @@ def solution(ingredient):
             
     return answer
 
-#세번째 시도
+#세번째 시도(성공)
 def solution(ingredient):
     answer = 0
     s = []
